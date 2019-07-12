@@ -1,7 +1,7 @@
 # dht11-sensor
 
 ## Purpose 
-To use luminosity sensor with platformio
+The purpose is to use luminosity sensor with platformio
 
 ## libraries for DHT and search Adafruit Unified Sensor 
 ```
